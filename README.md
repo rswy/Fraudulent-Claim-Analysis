@@ -1,2 +1,15 @@
 # Fraudulent-Claim-Analysis
-work out a machine learning plan to analyse data from the 2017 - 2018 WSA claims dataset and in doing so, identify possible outliers and anomalies within so that a predictive tool can be designed to detect possible fraud when the WSA programme goes live for all Brovsi employees around the world
+
+
+### Objective
+- Identify any improvements to the current WSA claims system before it can be pushed out globally 
+  - Improvements in terms of data collection
+  - Improvements to the current internal controls and policies relating to claims.
+### Analysis 
+- Basic statistical measures and findings from analysis of dataset variables 
+- Effectiveness of internal controls based on preliminary analysis 
+- Machine learning findings based on risk analysis 
+- Expected outcomes and recommendations
+### Shortcomings 
+- Understanding of metadata
+- Domain Knowledge
